@@ -1,4 +1,5 @@
 #!/data/data/com.termux/usr/bin/bash
+clear
 echo -e "\e[1;35m
 L)                       ##             S)ssss  h)              l)L  l)L  
 L)                                     S)    ss h)               \e[1;93ml)   l)  
